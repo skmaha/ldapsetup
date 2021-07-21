@@ -1,0 +1,2 @@
+# ldapsetup
+local ldap setup 
